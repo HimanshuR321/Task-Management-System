@@ -36,7 +36,7 @@ A full-stack task management application built with Django REST Framework and Re
 ### Backend Setup
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/HimanshuR321/Task-Management-System)
    cd task-management/backend
    ```
 
