@@ -25,13 +25,7 @@ A full-stack task management application built with Django REST Framework and Re
 - React Router
 - Axios for API calls
 
-## Setup Instructions
-
-### Prerequisites
-- Python 3.x
-- Node.js and npm
-- MySQL Server
-- Git
+## Setup Details
 
 ### Backend Setup
 1. Clone the repository:
